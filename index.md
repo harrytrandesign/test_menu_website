@@ -32,7 +32,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
 ```markdown
-| Header1 | Header2 | Header3 |
+| Header1 | ## Header 2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |

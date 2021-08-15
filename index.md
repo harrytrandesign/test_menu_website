@@ -19,16 +19,26 @@ title: Bonjour Nails-Spa
 | Kid Mani/Pedi     |                                                          $15.00/$25.00|
 | Kid Mani/Pedi Combo|                                                                $35.00|
 
-| Touch of Classic  |                                                                 Prices|
+| Selective Deluxe  |                                                                 Prices|
 |:------------------|----------------------------------------------------------------------:|
-| SNS Dipping       |                                                                 $47.00|
-| Shellac Mani/Pedi |                                                          $34.00/$49.00|
-| Mani/Pedi         |                                                          $24.00/$34.00|
-| Mani/Pedi Combo   |                                                                 $55.00|
-| Kid Mani/Pedi     |                                                          $15.00/$25.00|
-| Kid Mani/Pedi Combo|                                                                $35.00|
+| SNS Dipping       |                                                                 $64.00|
+| Shellac Mani/Pedi |                                                          $44.00/$64.00|
+| Mani/Pedi         |                                                          $34.00/$49.00|
+| Mani/Pedi Combo   |                                                                 $79.00|
+| Kid Mani/Pedi     |                                                          $25.00/$35.00|
+| Kid Mani/Pedi Combo|                                                                $55.00|
+
+| Selective Deluxe  |                                                                 Prices|
+|:------------------|----------------------------------------------------------------------:|
+| SNS Dipping       |                                                                 $72.00|
+| Shellac Mani/Pedi |                                                          $52.00/$77.00|
+| Mani/Pedi         |                                                          $42.00/$62.00|
+| Mani/Pedi Combo   |                                                                 $97.00|
+| Kid Mani/Pedi     |                                                          $30.00/$50.00|
+| Kid Mani/Pedi Combo|                                                                $75.00|
 
 ## DRINKS
+
 ### WINES... VINS...
 
 | ROSE              |                                                                     $9|

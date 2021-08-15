@@ -7,14 +7,12 @@ title: Bonjour Nails-Spa
 
 ### OUR SERVICES
 
-Markdown is a **lightweight** and easy-to-use syntax for styling your writing. It includes conventions for
-
-## Tables
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
 
 ### MANI-PEDI
 
 | Service          |          Price                                                        |
-|:-----------------|:---------------------------------------------------------------------:|
+|:-----------------|----------------------------------------------------------------------:|
 | John Doe.        |                                                                     $1|
 | Jane Doe         |                                                                  $100K|
 | Fred Bloggs      |                                                                  $100M|
@@ -34,21 +32,8 @@ Markdown is a **lightweight** and easy-to-use syntax for styling your writing. I
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
-| Header1 | ## Header 2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
 
 ![Weasel Image Description](https://www.thewrap.com/wp-content/uploads/2021/08/you-can-see-weasel-penis-in-the-suicide-squad.jpg "The Weasel")

@@ -20,7 +20,7 @@ Markdown is a **lightweight** and easy-to-use syntax for styling your writing. I
 | Fred Bloggs      |                                                                  $100M|
 | Jane Bloggs]     |                                                                  $100B|
 
-| **Customer**     | **##Contract** |                                                      |
+| Customer         |   ##Contract |                                                        |
 |:-----------------|----------------------------------------------------------------------:|
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |

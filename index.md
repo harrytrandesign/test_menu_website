@@ -9,7 +9,7 @@ Markdown is a **lightweight** and easy-to-use syntax for styling your writing. I
 ### MANI-PEDI
 
 | Service          |          Price                                                        |
-|------------------|-----------------------------------------------------------------------|
+|:-----------------|:----------------------------------------------------------------------|
 | John Doe.        |                                                                     $1|
 | Jane Doe         |                                                                  $100K|
 | Fred Bloggs      |                                                                  $100M|

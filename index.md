@@ -44,8 +44,6 @@ Markdown is a **lightweight** and easy-to-use syntax for styling your writing. I
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3

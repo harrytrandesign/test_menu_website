@@ -1,9 +1,9 @@
 ---
 published-on: 15 August 2021
-title: Welcome to Bonjour Nails-Spa
+title: Bonjour Nails-Spa
 ---
 
-## Bonjour Menu
+# MENU
 
 ### OUR SERVICES
 

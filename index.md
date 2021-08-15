@@ -49,7 +49,7 @@ title: Bonjour Nails-Spa
 ### OUR TEA...
 
 | TEA               |                                                 Friendly Complimentary|
-|:------------------|:----------------------------------------------------------------------|
+|:------------------|----------------------------------------------------------------------:|
 | White             |100% natural premium Peony. Lower blood pressure, and cancer prevention|                                                                     |
 | Green             |High in antioxidants, is one of the healthiest beverages in the world  |
 | Red               |South African herb. Sweet, mellow character low in tannins with very little bitterness|

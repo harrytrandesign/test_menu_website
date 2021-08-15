@@ -1,4 +1,4 @@
-## Bonjour
+## Bonjour Menu
 
 ### OUR SERVICES
 
@@ -14,20 +14,17 @@ Markdown is a **lightweight** and easy-to-use syntax for styling your writing. I
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
 | **Customer**         | **##Contract** |                                                              |
-|------------------|--------|--------------------------------------------------------------|
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
 | Company          | ##Revenue |                                                              |
-|------------------|--------|--------------------------------------------------------------|
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
-```markdown
 | Header1 | ## Header 2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
@@ -47,22 +44,4 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrytrandesign/test_menu_website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Weasel Image Description](https://www.thewrap.com/wp-content/uploads/2021/08/you-can-see-weasel-penis-in-the-suicide-squad.jpg "The Weasel")

@@ -21,17 +21,17 @@ title: Bonjour Nails-Spa
 ## DRINKS
 ### WINES... VINS...
 
-| Rose              |                                                                     $9|
+| ### ROSE              |                                                                     $9|
 |:------------------|----------------------------------------------------------------------:|
 | St Sagnol         |                                                                 France|
 
-| White             |                                                                     $9|
+| WHITE             |                                                                     $9|
 |:------------------|----------------------------------------------------------------------:|
 | Sauvignon Blanc   |                                                                 France|
 | Chardonnay        |                                                             California|
 | Chardonnay        |                                                                 France|
 
-| Red               |                                                                     $9|
+| ### RED               |                                                                     $9|
 |:------------------|----------------------------------------------------------------------:|
 | Carmenere         |                                                                  Chile|
 | Cabernet Sauvignon|                                                             California|
@@ -40,7 +40,7 @@ title: Bonjour Nails-Spa
 
 ### BEER... 
 
-| Beer              |                                                                     $5|
+| ### BEER              |                                                                     $5|
 |:------------------|----------------------------------------------------------------------:|
 | Budweiser         |                                                                America|
 | Heineken          |                                                            Netherlands|
@@ -48,7 +48,7 @@ title: Bonjour Nails-Spa
 
 ### OUR TEA...
 
-| Tea               |                                                 Friendly Complimentary|
+| ### TEA               |                                                 Friendly Complimentary|
 |:------------------|----------------------------------------------------------------------:|
 | John Doe.         |                                                                     $1|
 | Jane Doe          |                                                                  $100K|

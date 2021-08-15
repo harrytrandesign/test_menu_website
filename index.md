@@ -7,6 +7,7 @@ Markdown is a **lightweight** and easy-to-use syntax for styling your writing. I
 ## Tables
 
 ### MANI-PEDI
+
 | Employee         | Salary |                                                              |
 |------------------|--------|--------------------------------------------------------------|
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |

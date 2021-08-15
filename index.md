@@ -18,22 +18,22 @@ title: Bonjour Nails-Spa
 | Fred Bloggs      |                                                                  $100M|
 | Jane Bloggs]     |                                                                  $100B|
 
-| Customer         |   ##Contract |                                                        |
+### MANI-PEDI
+
+| Service          |          Price                                                        |
 |:-----------------|----------------------------------------------------------------------:|
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+| John Doe.        |                                                                     $1|
+| Jane Doe         |                                                                  $100K|
+| Fred Bloggs      |                                                                  $100M|
+| Jane Bloggs]     |                                                                  $100B|
 
-| Company          | ##Revenue |                                                           |
-|:-----------------|:---------------------------------------------------------------------:|
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+### MANI-PEDI
 
-# Header 1
-## Header 2
-### Header 3
+| Service          |          Price                                                        |
+|:-----------------|----------------------------------------------------------------------:|
+| John Doe.        |                                                                     $1|
+| Jane Doe         |                                                                  $100K|
+| Fred Bloggs      |                                                                  $100M|
+| Jane Bloggs]     |                                                                  $100B|
 
 ![Weasel Image Description](https://www.thewrap.com/wp-content/uploads/2021/08/you-can-see-weasel-penis-in-the-suicide-squad.jpg "The Weasel")

@@ -21,7 +21,7 @@ title: Bonjour Nails-Spa
 ## DRINKS
 ### WINES... VINS...
 
-| ### ROSE              |                                                                     $9|
+| ROSE              |                                                                     $9|
 |:------------------|----------------------------------------------------------------------:|
 | St Sagnol         |                                                                 France|
 
@@ -31,7 +31,7 @@ title: Bonjour Nails-Spa
 | Chardonnay        |                                                             California|
 | Chardonnay        |                                                                 France|
 
-| ### RED               |                                                                     $9|
+| RED               |                                                                     $9|
 |:------------------|----------------------------------------------------------------------:|
 | Carmenere         |                                                                  Chile|
 | Cabernet Sauvignon|                                                             California|
@@ -40,7 +40,7 @@ title: Bonjour Nails-Spa
 
 ### BEER... 
 
-| ### BEER              |                                                                     $5|
+| BEER              |                                                                     $5|
 |:------------------|----------------------------------------------------------------------:|
 | Budweiser         |                                                                America|
 | Heineken          |                                                            Netherlands|
@@ -48,11 +48,11 @@ title: Bonjour Nails-Spa
 
 ### OUR TEA...
 
-| ### TEA               |                                                 Friendly Complimentary|
-|:------------------|----------------------------------------------------------------------:|
-| John Doe.         |                                                                     $1|
-| Jane Doe          |                                                                  $100K|
-| Fred Bloggs       |                                                                  $100M|
-| Jane Bloggs]      |                                                                  $100B|
+| TEA               |                                                 Friendly Complimentary|
+|:------------------|:----------------------------------------------------------------------|
+| White             |100% natural premium Peony. Lower blood pressure, and cancer prevention|                                                                     |
+| Green             |High in antioxidants, is one of the healthiest beverages in the world  |
+| Red               |South African herb. Sweet, mellow character low in tannins with very little bitterness|
+| Black             |Organic leaves from Yunnan, fully demented leaves give a rich flavor and soothing aroma|
 
 ![Weasel Image Description](https://www.thewrap.com/wp-content/uploads/2021/08/you-can-see-weasel-penis-in-the-suicide-squad.jpg "The Weasel")

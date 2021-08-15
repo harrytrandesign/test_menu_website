@@ -1,6 +1,6 @@
 ---
 published-on: 15 August 2021
-title: Blogging Like a Boss
+title: Welcome to Bonjour Nails-Spa
 ---
 
 ## Bonjour Menu

@@ -5,9 +5,10 @@ title: Bonjour Nails-Spa
 
 # BONJOUR NAILS-SPA MENU
 
-## OUR SERVICES
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
 
-### MANI-PEDI
+
+## OUR SERVICES
 
 | Touch of Classic  |                                                                 Prices|
 |:------------------|----------------------------------------------------------------------:|
@@ -18,7 +19,14 @@ title: Bonjour Nails-Spa
 | Kid Mani/Pedi     |                                                          $15.00/$25.00|
 | Kid Mani/Pedi Combo|                                                                $35.00|
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
+| Touch of Classic  |                                                                 Prices|
+|:------------------|----------------------------------------------------------------------:|
+| SNS Dipping       |                                                                 $47.00|
+| Shellac Mani/Pedi |                                                          $34.00/$49.00|
+| Mani/Pedi         |                                                          $24.00/$34.00|
+| Mani/Pedi Combo   |                                                                 $55.00|
+| Kid Mani/Pedi     |                                                          $15.00/$25.00|
+| Kid Mani/Pedi Combo|                                                                $35.00|
 
 ## DRINKS
 ### WINES... VINS...

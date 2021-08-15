@@ -38,7 +38,6 @@ title: Bonjour Nails-Spa
 | Pinot Noir        |                                                                 France|
 | Merlot            |                                                             California|
 
-
 ### BEER... 
 
 | Beer              |                                                                     $5|
@@ -46,7 +45,6 @@ title: Bonjour Nails-Spa
 | Budweiser         |                                                                America|
 | Heineken          |                                                            Netherlands|
 | Sapporo           |                                                                  Japan|
-
 
 ### OUR TEA...
 

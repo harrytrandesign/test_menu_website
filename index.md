@@ -24,19 +24,20 @@ title: Bonjour Nails-Spa
 | Rose             |                                                                     $9|
 |:-----------------|----------------------------------------------------------------------:|
 | St Sagnol        |                                                                 France|
-
+|                  |                                                                       |
 | White            |                                                                     $9|
 |:-----------------|----------------------------------------------------------------------:|
 | Sauvignon Blanc  |                                                                 France|
 | Chardonnay       |                                                             California|
 | Chardonnay       |                                                                 France|
-
+|                  |                                                                       |
 | Red              |                                                                     $9|
 |:-----------------|----------------------------------------------------------------------:|
 | Carmenere        |                                                                  Chile|
 |Cabernet Sauvignon|                                                             California|
 | Pinot Noir       |                                                                 France|
 | Merlot           |                                                             California|
+
 
 ### BEER... 
 
@@ -45,6 +46,7 @@ title: Bonjour Nails-Spa
 | Budweiser        |                                                                America|
 | Heineken         |                                                            Netherlands|
 | Sapporo          |                                                                  Japan|
+
 
 ### OUR TEA...
 

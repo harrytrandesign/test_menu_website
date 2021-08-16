@@ -75,4 +75,5 @@ title: Bonjour Nails-Spa
 | Red               |South African herb. Sweet, mellow character low in tannins with very little bitterness|
 | Black             |Organic leaves from Yunnan, fully demented leaves give a rich flavor and soothing aroma|
 
-![Weasel Image Description](https://www.thewrap.com/wp-content/uploads/2021/08/you-can-see-weasel-penis-in-the-suicide-squad.jpg "The Weasel")
+<!-- ![Weasel Image Description](https://www.thewrap.com/wp-content/uploads/2021/08/you-can-see-weasel-penis-in-the-suicide-squad.jpg "The Weasel")
+ -->
